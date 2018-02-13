@@ -7,3 +7,11 @@ aiohttp
 websockets
 chardet
 opuslib
+discord.py[voice]
+aiohttp
+websockets
+chardet
+youtube_dl
+pip
+cffi==1.6.0
+opuslib
